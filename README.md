@@ -1,4 +1,4 @@
 # palestine_bot
 
-this is a test
- 
+This code is for the palestine bot project 
+you can edit add or delete codes in the main file 
